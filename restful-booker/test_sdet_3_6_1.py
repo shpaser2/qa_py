@@ -2,8 +2,8 @@ import json
 
 """
 To see the report execute one of the next commands:
-    python sdet_3_6_1.py
-    pytest -s sdet_3_6_1.py
+git    python test_sdet_3_6_1.py
+    pytest -s test_sdet_3_6_1.py
 """
 
 
